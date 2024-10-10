@@ -51,7 +51,7 @@ There are several challenges that I know I will face throughout this process:
 
 ## Milestones
 
-These are the roughly estimated milestones I am expecting for my project:
+These are the milestones I am expecting for my project:
 
 1. Researching and understanding aggregations in JS / D3 and implementing them into visualizations
 2. Develop first draft prototypes for the least complex visualizations (i.e. scatter plot, bar chart)
