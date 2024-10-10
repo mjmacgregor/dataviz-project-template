@@ -2,7 +2,9 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project comes from the [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data).
+
+
 
 
 ## Questions & Tasks
