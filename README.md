@@ -4,17 +4,19 @@
 
 The data I propose to visualize for my project comes from the [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data).
 
+This data set describes a variety of demographic and logistic information related to consumer purchases throughout the United States. One instance of data includes information regarding who the consumer is, what they purchased, when they purchased it, where they purchased it, and how they purchased it. An example row of data can be seen below:
 
+![Example Row](https://github.com/mjmacgregor/dataviz-project-template/blob/master/shopping-data.png)
 
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The purpose of this project is to provide visualizations that would assist in driving data-based decision-making for the company. The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Which states / regions have the best ratings and get the most purchases?
+ * Which products are most popular by gender, season, and region?
+ * Are different demographics more likely to be regular customers?
+ * Which demographics and products provide the most sales in different states and overall?
 
 ## Sketches
 
