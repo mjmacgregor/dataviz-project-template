@@ -36,7 +36,7 @@ These are first draft ideas, but all help answer questions of sales or purchases
 
 ## Prototypes
 
-I will be adding prototypes as soon as possible once I obtain a better understanding of creating visualizations by groups and using aggregations!
+
 
 ## Open Questions
 
@@ -61,3 +61,14 @@ These are the milestones I am expecting for my project:
 6. Introduce interactivity into the dashboard to allow the user to display the visualizations based on metrics of choice
 7. Finalize dashboard design
 8. Culminate findings and process into a final report
+
+## Progress
+
+### Week 1
+
+The majority of the work I did this week was preparing the data for visualizations. I performed aggregations and joins on the data in Python to prepare several tables to go into visualizations. For example, for my chloropleth chart, I grouped the data by state and calculated the average and total number of customer ratings for each state.
+
+I then started creating prototypes for visualization. The first big prototype I created was the map of US states and customer ratings.
+My next steps are to create prototypes of the scatterplot and bar chart visualizations.
+
+I also want to learn more and incorporate hovering and interaction into my chloropleth as well as adjust some of the design choices, but the prototype works well! The prototype can be found in the prototype section.
