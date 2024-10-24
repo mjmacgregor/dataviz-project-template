@@ -36,7 +36,10 @@ These are first draft ideas, but all help answer questions of sales or purchases
 
 ## Prototypes
 
+First draft prototype of a chloropleth map of the customer ratings for the US states:
+![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/chloropleth_us_state_ratings.png)
 
+The size of the circles correspond to the number of purchases in a state, and the color corresponds to the average customer rating. A darker shade of blue indicates a higher average rating.
 
 ## Open Questions
 
