@@ -41,6 +41,16 @@ First draft prototype of a chloropleth map of the customer ratings for the US st
 
 The size of the circles correspond to the number of purchases in a state, and the color corresponds to the average customer rating. A darker shade of blue indicates a higher average rating.
 
+First draft prototype of a scatterplot of the aggregated state data:
+![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/states_scatter.png)
+
+The horizontal and vertical locations correspond to the total purchases and average customer rating for each state. Circles are colored based on the most popular season for purchases in the state, and they are sized based on how "regular" customers are -- larger circles mean purchases are made by customers that have made many purchases in the past.
+
+First draft prototype of a scatterplot of all the data:
+![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/all_data_scatter.png)
+
+This looks like a mess right now because it contains all of the data points, but the idea behind this visualiation is that there will be interactive filters allowing the user to only display the data corresponding to certain attributes, which is a useful feature to have.
+
 ## Open Questions
 
 There are several challenges that I know I will face throughout this process:
@@ -75,3 +85,14 @@ I then started creating prototypes for visualization. The first big prototype I 
 My next steps are to create prototypes of the scatterplot and bar chart visualizations.
 
 I also want to learn more and incorporate hovering and interaction into my chloropleth as well as adjust some of the design choices, but the prototype works well! The prototype can be found in the prototype section.
+
+### Week 2
+
+I performed a lot more aggregations on the data and data manipulation to prepare for my scatterplot views.
+
+I then created two prototype scatterplot views that I added to the prototypes section. The first is an aggregated scatterplot displaying the state data, while the second contains all of the data.
+The second is not very useful right now but I aim to add interactive features allowing the user to control which points are visible based on selected attribute values.
+
+Additionally, I need to incorporate tooltips into my views, but I have ran into a lot of difficulty making these work.
+
+My next steps are to implement tooltips and interactive filters onto my current views, and to create visualizations (likely bar charts or histograms) displaing total sales based on demographics and categorical attributes.
