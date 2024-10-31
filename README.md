@@ -36,17 +36,17 @@ These are first draft ideas, but all help answer questions of sales or purchases
 
 ## Prototypes
 
-First draft prototype of a chloropleth map of the customer ratings for the US states:
+First draft prototype of a chloropleth map of the customer ratings for the US states can be found at https://vizhub.com/mjmacgregor/state-ratings-map:
 ![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/chloropleth_us_state_ratings.png)
 
 The size of the circles correspond to the number of purchases in a state, and the color corresponds to the average customer rating. A darker shade of blue indicates a higher average rating.
 
-First draft prototype of a scatterplot of the aggregated state data:
+First draft prototype of a scatterplot of the aggregated state data can be found at https://vizhub.com/mjmacgregor/state-ratings-scatter:
 ![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/states_scatter.png)
 
 The horizontal and vertical locations correspond to the total purchases and average customer rating for each state. Circles are colored based on the most popular season for purchases in the state, and they are sized based on how "regular" customers are -- larger circles mean purchases are made by customers that have made many purchases in the past.
 
-First draft prototype of a scatterplot of all the data:
+First draft prototype of a scatterplot of all the data can be found at https://vizhub.com/mjmacgregor/56d3bb75c63544bf89b308ac6dfa7b3f:
 ![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/all_data_scatter.png)
 
 This looks like a mess right now because it contains all of the data points, but the idea behind this visualiation is that there will be interactive filters allowing the user to only display the data corresponding to certain attributes, which is a useful feature to have.
