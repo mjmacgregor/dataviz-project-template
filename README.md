@@ -51,6 +51,11 @@ First draft prototype of a scatterplot of all the data can be found at https://v
 
 This looks like a mess right now because it contains all of the data points, but the idea behind this visualiation is that there will be interactive filters allowing the user to only display the data corresponding to certain attributes, which is a useful feature to have.
 
+Second draft prototype of a scatterplot of the aggregated state data with an interactive color legend can be found at https://vizhub.com/mjmacgregor/scatter-color-legend:
+![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/scatter-color-legend.png)
+
+The interactive color legend allows the user to hover over one of the seasons, and only the data points corresponding to those states are displayed (the rest of the points are faded out).
+
 ## Open Questions
 
 There are several challenges that I know I will face throughout this process:
@@ -95,4 +100,15 @@ The second is not very useful right now but I aim to add interactive features al
 
 Additionally, I need to incorporate tooltips into my views, but I have ran into a lot of difficulty making these work.
 
-My next steps are to implement tooltips and interactive filters onto my current views, and to create visualizations (likely bar charts or histograms) displaing total sales based on demographics and categorical attributes.
+My next steps are to implement tooltips and interactive filters onto my current views, and to create visualizations (likely bar charts or histograms) displaying total sales based on demographics and categorical attributes.
+
+### Week 3
+
+The focus of this week was to implement a color filter on the scatterplot view which can be seen in the second prototype. The interactive filter allows the user to hover over one of the colors and only display corresponding state data points. In the image included, I am hovering over *winter* and the only states shown are those where winter is their most popular season.
+
+There was a lot of difficulty getting this feature to work since I have never used this type of filtering before in visualization (and specifically in JavaScript). Because of this it was a lengthy task that took up most of my type this week so I have not gotten to the other views I intend to create.
+
+Now that I have gotten this feature to work I intend to implement it into the other view as well.
+
+My next step is creating bar chart and histogram views that explore the relationships between **total sales** and other relevant features.
+
