@@ -56,6 +56,17 @@ Second draft prototype of a scatterplot of the aggregated state data with an int
 
 The interactive color legend allows the user to hover over one of the seasons, and only the data points corresponding to those states are displayed (the rest of the points are faded out).
 
+First draft prototype of an interactive stacked bar chart of total sales by state and season can be found at https://vizhub.com/mjmacgregor/stacked_bar_state_season:
+![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/stacked_states_seasons.png)
+
+First draft prototype of an interactive stacked bar chart of total sales by state and gender can be found at https://vizhub.com/mjmacgregor/stacked_bar_state_gender:
+![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/stacked_states_genders.png)
+
+First draft prototype of an interactive stacked bar chart of total sales by season and gender can be found at https://vizhub.com/mjmacgregor/stacked_bar_season_gender:
+![Sketch](https://github.com/mjmacgregor/dataviz-project-template/blob/master/stacked_seasons_genders.png)
+
+Each of these stacked bar charts are interactive. Hovering over any of the attributes in the legend highlights the respective bars corresponding to that attribute value as can be seen in each of the screenshots.
+
 ## Open Questions
 
 There are several challenges that I know I will face throughout this process:
@@ -112,3 +123,12 @@ Now that I have gotten this feature to work I intend to implement it into the ot
 
 My next step is creating bar chart and histogram views that explore the relationships between **total sales** and other relevant features.
 
+### Week 4
+
+The focus of this week was to implement interactive views. For my project, I wanted to implement interactive stacked bar charts to display the total sales by attribute values. It made the most sense to display the sales by state, season, and gender.
+
+For this, I created three separate bar charts. One compared sales by state and season, one by state and gender, and one by gender and season. Each of the bar charts are interactive so that hovering over the legend allows the user to isolate the bars corresponding to select attribute values.
+
+These bar charts provide insight into which states, seasons, and gender demographics generate the most sales.
+
+Each of these bar charts can be seen individually in the Prototypes section, and a brief article containing all three of these together can be found at https://vizhub.com/mjmacgregor/sales_interactive_bar_charts.
