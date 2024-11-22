@@ -132,3 +132,11 @@ For this, I created three separate bar charts. One compared sales by state and s
 These bar charts provide insight into which states, seasons, and gender demographics generate the most sales.
 
 Each of these bar charts can be seen individually in the Prototypes section, and a brief article containing all three of these together can be found at https://vizhub.com/mjmacgregor/sales_interactive_bar_charts.
+
+### Week 5
+
+This week was focused on polishing and putting together my views. Each of the views needed some fine tuning in terms of parameters, colors, and interpretability.
+
+I had three stacked bar charts, two scatterplots, and one chloropleth view. I consolidated them into one vizhub readme file, along with short descriptions of the purposes of each of the views in terms of business decision-making.
+
+The short article containing all of my current views and their application can be found at https://vizhub.com/mjmacgregor/collective-views.
