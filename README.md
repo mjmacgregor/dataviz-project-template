@@ -1,6 +1,6 @@
 # Data Visualization Project
 
-## Data
+## Motivation
 
 The data I propose to visualize for my project comes from the [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data).
 
