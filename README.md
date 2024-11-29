@@ -67,7 +67,7 @@ First draft prototype of an interactive stacked bar chart of total sales by seas
 
 Each of these stacked bar charts are interactive. Hovering over any of the attributes in the legend highlights the respective bars corresponding to that attribute value as can be seen in each of the screenshots.
 
-## Open Questions
+## Anticipated Challenges
 
 There are several challenges that I know I will face throughout this process:
 
@@ -78,7 +78,7 @@ There are several challenges that I know I will face throughout this process:
 3. Developing new visualization types
    - I expect that some of the visualization types will be a lot more complex than others to implement. For example, I am most concerned about the chloropleth map. I believe the scatterplot and bar chart will be the least complicated to implement, but as of right now I do not know how to implement a chloropleth map. I'm expecting another learning curve with learning how to implement all of the different visualization types.
 
-## Milestones
+## Expected Milestones
 
 These are the milestones I am expecting for my project:
 
@@ -140,3 +140,16 @@ This week was focused on polishing and putting together my views. Each of the vi
 I had three stacked bar charts, two scatterplots, and one chloropleth view. I consolidated them into one vizhub readme file, along with short descriptions of the purposes of each of the views in terms of business decision-making.
 
 The short article containing all of my current views and their application can be found at https://vizhub.com/mjmacgregor/collective-views.
+
+### Actual Challenges
+
+Most of my anticipated challenges made this project difficult, but a great learning experience, and there were also unexpected challenges that hindered progress or overall visualization effectiveness.
+
+1. Data Quality
+   - The data set was not an overall survey of shopping data. Instead, it was very normalized. For each state, there was a similar number of total entries, hindering the visualization quality since one of the core questions I was attempting to answer involved regional or state-specific differences. Since the data was normalized by state, it is difficult to determine which states or regions have the most purchases or highest quality items.
+2. Interactivity
+   - As expected, since this was my first experience using JavaScript, it was difficult to implement more advanced techniques. For example, in my initial sketch, I aimed to create one singular dashboard that allowed the user to interactively change what is displayed. I spent a very long time researching and learning interactive dashboard approaches in JavaScript to try to implement this, but it ended up being too advanced for the scope of this project. Instead, I took the approach of embedding all of the views into one webpage on VizHub, which returns a similar result showing all of the views together, but prohibits the user from changing what is in view interactively.
+
+### Next Steps
+
+The next steps for this project would involve implement the interactive elements to create a dashboard effect instead of a webpage that needs to be scrolled through. In terms of company flow, the next step from this project would be to present the visualizations to a supervisor or business representative and suggest some findings from the visualizations to drive business decisions.
