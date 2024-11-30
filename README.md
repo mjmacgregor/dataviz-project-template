@@ -153,3 +153,7 @@ Most of my anticipated challenges made this project difficult, but a great learn
 ### Next Steps
 
 The next steps for this project would involve implement the interactive elements to create a dashboard effect instead of a webpage that needs to be scrolled through. In terms of company flow, the next step from this project would be to present the visualizations to a supervisor or business representative and suggest some findings from the visualizations to drive business decisions.
+
+### Video Run Through
+
+The video run through of the README can be found here: https://drive.google.com/file/d/1P7_1pQHXNY2s_S4XpIBnmNvK8rxi5QTc/view
