@@ -156,4 +156,4 @@ The next steps for this project would involve implement the interactive elements
 
 ### Video Run Through
 
-The video run through of the README can be found here: https://drive.google.com/file/d/1P7_1pQHXNY2s_S4XpIBnmNvK8rxi5QTc/view
+A presentation of the project content can be found here: https://drive.google.com/file/d/1Md6-KFKLOKpKDybhl38-SEythUnye7Tm/view
